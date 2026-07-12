@@ -14,13 +14,9 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 I'm a PhD candidate at **Universiti Kebangsaan Malaysia (UKM)**, Faculty of Information Science and Technology, and a **Malaysia International Scholarship (MIS 2025)** recipient. My research focuses on **multilingual Retrieval-Augmented Generation (RAG) dialogue systems** for Arabic and Malay low-resource languages, combining RAG with LoRA/PEFT fine-tuning of mT5. I'm also an Assistant Lecturer at the University of Technology-Iraq.
-
----
 
 ## 🛠️ Skills
 
@@ -30,44 +26,35 @@ I'm a PhD candidate at **Universiti Kebangsaan Malaysia (UKM)**, Faculty of Info
 
 </div>
 
-- **Languages**: Python
-- **AI/ML**: RAG, LoRA/PEFT, mT5, LLMs, NLP
-- **Frameworks**: CrewAI, AutoGen, LangGraph (multi-agent systems)
-- **Other**: Django, MATLAB, PHP
-
----
+**Languages:** Python
+**AI/ML:** RAG, LoRA/PEFT, mT5, LLMs, NLP
+**Frameworks:** CrewAI, AutoGen, LangGraph (multi-agent systems)
+**Other:** Django, MATLAB, PHP
 
 ## 🌟 Featured Projects
 
-- **Multilingual RAG (Arabic/Malay)** - PhD research combining RAG + LoRA fine-tuning of mT5
-- **PaperBrief** - AI-powered research paper summarizer
-- **Multi-Agent Framework Comparison** - CrewAI vs AutoGen vs LangGraph study
-
----
+**Multilingual RAG (Arabic/Malay)**: PhD research combining RAG + LoRA fine-tuning of mT5
+**PaperBrief**: AI-powered research paper summarizer
+**Multi-Agent Framework Comparison**: CrewAI vs AutoGen vs LangGraph study
 
 ## 🎓 Education
 
-**PhD in Information Science & Technology** - UKM, Malaysia (2026–present)  
-*Focus*: Multilingual RAG for Arabic/Malay dialogue systems  
+**PhD in Information Science & Technology**, UKM, Malaysia (2025–present)
+*Focus:* Multilingual RAG for Arabic/Malay dialogue systems
 Supervisor: Dr. Lailatul Qadri Zakaria
-
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akramtaha98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akramtaha98&show_icons=true&theme=tokyonight&hide_border=true" />
 <img src="https://streak-stats.demolab.com?user=Akramtaha98&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
-
 ## 🤝 Let's Connect
 
-Open to freelance/remote AI & NLP work — reach out via LinkedIn or check my [portfolio](https://akramtaha98.github.io).
+Open to freelance/remote AI & NLP work - reach out via LinkedIn or check my [portfolio](https://akramtaha98.github.io).
 
 <div align="center">
 
