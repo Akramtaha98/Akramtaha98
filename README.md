@@ -39,7 +39,7 @@ I'm a PhD candidate at **Universiti Kebangsaan Malaysia (UKM)**, Faculty of Info
 
 ## 🎓 Education
 
-**PhD in Information Science & Technology**, UKM, Malaysia (2025–present)
+**PhD in Information Science & Technology**, UKM, Malaysia (2026–present)
 *Focus:* Multilingual RAG for Arabic/Malay dialogue systems
 Supervisor: Dr. Lailatul Qadri Zakaria
 
