@@ -48,7 +48,7 @@ Supervisor: Dr. Lailatul Qadri Zakaria
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akramtaha98&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://streak-stats.demolab.com?user=Akramtaha98&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Akramtaha98&theme=tokyonight&hide_border=true" />
 
 </div>
 
