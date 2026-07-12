@@ -39,15 +39,15 @@ I'm a PhD candidate at **Universiti Kebangsaan Malaysia (UKM)**, Faculty of Info
 
 ## 🌟 Featured Projects
 
-- **Multilingual RAG (Arabic/Malay)** — PhD research combining RAG + LoRA fine-tuning of mT5
-- **PaperBrief** — AI-powered research paper summarizer
-- **Multi-Agent Framework Comparison** — CrewAI vs AutoGen vs LangGraph study
+- **Multilingual RAG (Arabic/Malay)** - PhD research combining RAG + LoRA fine-tuning of mT5
+- **PaperBrief** - AI-powered research paper summarizer
+- **Multi-Agent Framework Comparison** - CrewAI vs AutoGen vs LangGraph study
 
 ---
 
 ## 🎓 Education
 
-**PhD in Information Science & Technology** - UKM, Malaysia (2025–present)  
+**PhD in Information Science & Technology** - UKM, Malaysia (2026–present)  
 *Focus*: Multilingual RAG for Arabic/Malay dialogue systems  
 Supervisor: Dr. Lailatul Qadri Zakaria
 
@@ -57,8 +57,9 @@ Supervisor: Dr. Lailatul Qadri Zakaria
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akramtaha98&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akramtaha98&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Akramtaha98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img src="https://streak-stats.demolab.com?user=Akramtaha98&theme=tokyonight&hide_border=true" />
 
 </div>
 
