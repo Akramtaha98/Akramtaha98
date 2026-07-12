@@ -2,7 +2,7 @@
 
 🎓 **PhD Candidate | NLP & LLM Researcher | Multilingual RAG Systems**  
 📍 Malaysia (UKM) | Originally from Iraq  
-💼 [LinkedIn](#) | 🌐 [Portfolio](https://akramtaha98.github.io) | ✉️ [Email](#)
+💼 [LinkedIn](https://www.linkedin.com/in/akram-t-44a095b6/) | 🌐 [Portfolio](https://akramtaha98.github.io) | ✉️ [Email](mailto:akram.t.zeyad@uotechnology.edu.iq)
 
 ---
 
