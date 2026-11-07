@@ -102,6 +102,21 @@ For a useful first conversation, share the problem, target languages, available 
 
 [Explore all repositories →](https://github.com/Akramtaha98?tab=repositories)
 
+## 🐍 Contributions in motion
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akramtaha98/Akramtaha98/profile-visuals/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akramtaha98/Akramtaha98/profile-visuals/github-snake.svg" />
+  <img width="100%" alt="Animated snake tracing Akram Taha's GitHub contribution graph" src="https://raw.githubusercontent.com/Akramtaha98/Akramtaha98/profile-visuals/github-snake.svg" />
+</picture>
+
+<sub>My contribution graph, brought to life. Refreshed daily.</sub>
+
+[View contributions](https://github.com/Akramtaha98?tab=overview) · [Animation update status](https://github.com/Akramtaha98/Akramtaha98/actions/workflows/profile-snake.yml)
+
+</div>
+
 ## 📊 GitHub activity
 
 <div align="center">
